@@ -1,3 +1,4 @@
+# Tiara Mathur and Perry Healy
 import random as random
 import copy as copy
 
